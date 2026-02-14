@@ -1,85 +1,88 @@
-                                                                      <b>Hi 👋, I'm Zamanuddin Khan<\b>
+# Hi 👋, I'm Zamanuddin Khan  
 
-🎓 B.Tech CSE Student
-💻 Aspiring Full-Stack Developer
-🚀 Interested in Web Development, Java & Problem Solving
+🎓 **B.Tech CSE Student**  
+💻 **Aspiring Full-Stack Developer**  
+🚀 **Interested in Web Development, Java & Problem Solving**
 
-🌱 Currently Learning
+---
 
-Full-Stack Web Development
+## 🌱 Currently Learning
 
-Backend Development with Django
+- Full-Stack Web Development  
+- Backend Development with Django  
+- Frontend Development with React.js  
+- Data Structures & Algorithms using Java  
+- Git, GitHub & Version Control  
+- Basics of CI/CD and DevOps  
 
-Frontend with React.js
+---
 
-Data Structures & Algorithms (Java)
+## 💡 What I'm Working On
 
-Git, GitHub & Version Control
+- 🧑‍💻 Building backend systems using Django  
+- 🌐 Creating responsive web interfaces  
+- 📦 Developing REST APIs  
+- 🔄 Improving problem-solving skills in Java  
+- 🛠 Working on real-world beginner to intermediate projects  
 
-Basics of CI/CD and DevOps
+---
 
-💡 What I'm Working On
+## 🛠 Tech Stack
 
-🧑‍💻 Building backend systems using Django
+### 👨‍💻 Languages
+Java · Python · JavaScript · C++ · HTML · CSS  
 
-🌐 Creating responsive web interfaces
+### 🌐 Frontend
+React.js · Bootstrap · Tailwind CSS  
 
-📦 Practicing REST API development
+### ⚙️ Backend
+Django · Node.js (Learning)  
 
-🔄 Improving problem-solving skills in Java
+### 🗄️ Databases
+MySQL · MongoDB  
 
-🛠 Working on beginner-to-intermediate projects
+### 🛠 Tools
+Git · GitHub · VS Code · Postman · Docker (Learning)  
 
-🛠 Tech Stack
-👨‍💻 Languages
+---
 
-Java Python JavaScript C++ HTML CSS
+## 🚀 Full-Stack Focus
 
-🌐 Frontend
+- Frontend & Backend Integration  
+- RESTful API Development  
+- Database Design & Management  
+- Writing clean, structured, maintainable code  
 
-React.js Bootstrap Tailwind CSS
+---
 
-⚙️ Backend
+## 📚 Academic & Leadership Highlights
 
-Django Node.js (Learning)
+- 🎤 Hosted and organized technical events  
+- 📜 Received Certificate of Appreciation for event coordination  
+- 🎓 Active participation in technical and financial literacy programs  
 
-🗄️ Databases
+---
 
-MySQL MongoDB
+## 📊 GitHub Stats
 
-🛠 Tools
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zamanuddinkhan&show_icons=true)
 
-Git GitHub VS Code Postman Docker (Learning)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zamanuddinkhan&layout=compact)
 
-🚀 Full-Stack Focus
-
-Frontend + Backend Integration
-
-RESTful API Development
-
-Database Design & Management
-
-Writing clean, structured, maintainable code
-
-📚 Academic & Leadership Highlights
-
-🎤 Hosted and organized events
-
-📜 Certificate of Appreciation for event coordination
-
-🎓 Active participation in technical and financial literacy programs
-
-📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zamanuddinkhan&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zamanudinkhan&layout=compact)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=zamanuddinkhan)
 
-📈 Contribution Graph
+---
+
+## 📈 Contribution Activity
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zamanuddinkhan)
 
-🌐 Connect With Me
+---
 
-💼 LinkedIn: https://www.linkedin.com/in/zamanuddin-khan-b673b8344
-📧 Email: zamanuddinkhan1234@gmail.com
+## 🌐 Connect With Me
+
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/zamanuddin-khan-b673b8344  
+
+📧 **Email:**  
+zamanuddinkhan1234@gmail.com  
