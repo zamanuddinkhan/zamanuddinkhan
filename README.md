@@ -1,4 +1,4 @@
-Hi 👋, I'm Zamanuddin Khan
+<h1>Hi 👋, I'm Zamanuddin Khan<h1>
 
 🎓 B.Tech CSE Student
 💻 Aspiring Full-Stack Developer
