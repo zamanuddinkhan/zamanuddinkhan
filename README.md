@@ -31,7 +31,7 @@ Django · Node.js (Learning)
 MySQL · MongoDB  
 
 ### 🛠 Tools
-Git · GitHub · VS Code 
+GitHub · VS Code 
 
 ---
 
