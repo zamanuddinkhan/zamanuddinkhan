@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zamanuddin Khan</h1>
+<h1 align="center">Hey, I'm Zamanuddin Khan</h1>
 
 <p align="center">
 B.Tech CSE Student | Aspiring Full-Stack Developer | Interested in Web Development, Python
