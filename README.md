@@ -1,8 +1,8 @@
-# Hi 👋, I'm Zamanuddin Khan  
+# Hi, I'm Zamanuddin Khan  
 
 🎓 **B.Tech CSE Student**  
 💻 **Aspiring Full-Stack Developer**  
-🚀 **Interested in Web Development, Java & Problem Solving**
+🚀 **Interested in Web Development, Python**
 
 ---
 
@@ -10,30 +10,19 @@
 
 - Full-Stack Web Development  
 - Backend Development with Django  
-- Frontend Development with React.js  
-- Data Structures & Algorithms using Java  
-- Git, GitHub & Version Control  
-- Basics of CI/CD and DevOps  
-
----
-
-## 💡 What I'm Working On
-
-- 🧑‍💻 Building backend systems using Django  
-- 🌐 Creating responsive web interfaces  
-- 📦 Developing REST APIs  
-- 🔄 Improving problem-solving skills in Java  
-- 🛠 Working on real-world beginner to intermediate projects  
+- Frontend Development with React.js
+- Data Structures & Algorithms using C++
+- Git, GitHub & Version Control 
 
 ---
 
 ## 🛠 Tech Stack
 
 ### 👨‍💻 Languages
-Java · Python · JavaScript · C++ · HTML · CSS  
+Java · Python · JavaScript · C\C++ · HTML · CSS  
 
 ### 🌐 Frontend
-React.js · Bootstrap · Tailwind CSS  
+React.js · Bootstrap · Tailwind CSS (Learning)
 
 ### ⚙️ Backend
 Django · Node.js (Learning)  
@@ -42,7 +31,7 @@ Django · Node.js (Learning)
 MySQL · MongoDB  
 
 ### 🛠 Tools
-Git · GitHub · VS Code · Postman · Docker (Learning)  
+Git · GitHub · VS Code 
 
 ---
 
@@ -57,19 +46,21 @@ Git · GitHub · VS Code · Postman · Docker (Learning)
 
 ## 📚 Academic & Leadership Highlights
 
-- 🎤 Hosted and organized technical events  
+- 🎓 Class Representative (CR)  
+- 🎤 Member of TEDx Event Speaker Committee  
+- 🎙 Hosted and organized events  
 - 📜 Received Certificate of Appreciation for event coordination  
-- 🎓 Active participation in technical and financial literacy programs  
+- 💡 Active participation in technical and financial literacy programs 
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zamanuddinkhan&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zamanuddinkhan&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zamanuddinkhan&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zamanuddinkhan&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=zamanuddinkhan)
+![GitHub Streak](https://streak-stats.demolab.com?user=zamanuddinkhan&theme=radical)
 
 ---
 
