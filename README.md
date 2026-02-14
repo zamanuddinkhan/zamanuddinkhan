@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Zamanuddin Khan</h1>
 
-🎓 **B.Tech CSE Student**  
-💻 **Aspiring Full-Stack Developer**  
-🚀 **Interested in Web Development, Python**
+<p align="center">
+B.Tech CSE Student | Aspiring Full-Stack Developer | Interested in Web Development, Python
+</p>
 
 ---
 
