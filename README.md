@@ -19,7 +19,7 @@
 ## 🛠 Tech Stack
 
 ### 👨‍💻 Languages
-Java · Python · JavaScript · C\C++ · HTML · CSS  
+Java · Python · JavaScript · C · C++ · HTML · CSS  
 
 ### 🌐 Frontend
 React.js · Bootstrap · Tailwind CSS (Learning)
