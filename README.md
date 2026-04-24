@@ -60,12 +60,6 @@ GitHub · VS Code
 
 ---
 
-## 📈 Contribution Activity
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zamanuddinkhan)
-
----
-
 ## 🌐 Connect With Me
 
 💼 **LinkedIn:**  
