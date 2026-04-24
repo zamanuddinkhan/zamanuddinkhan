@@ -19,7 +19,7 @@ B.Tech CSE Student | Aspiring Full-Stack Developer | Interested in Web Developme
 ## 🛠 Tech Stack
 
 ### 👨‍💻 Languages
-Java · Python · JavaScript · C · C++ · HTML · CSS  
+Python · JavaScript · C · C++ · HTML · CSS  
 
 ### 🌐 Frontend
 React.js · Bootstrap · Tailwind CSS (Learning)
@@ -28,7 +28,7 @@ React.js · Bootstrap · Tailwind CSS (Learning)
 Django · Node.js (Learning)  
 
 ### 🗄️ Databases
-MySQL · MongoDB  
+MySQL
 
 ### 🛠 Tools
 GitHub · VS Code 
@@ -37,8 +37,7 @@ GitHub · VS Code
 
 ## 🚀 Full-Stack Focus
 
-- Frontend & Backend Integration  
-- RESTful API Development  
+- Frontend & Backend Integration
 - Database Design & Management  
 - Writing clean, structured, maintainable code  
 
