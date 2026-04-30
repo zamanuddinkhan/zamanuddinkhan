@@ -22,7 +22,7 @@ B.Tech CSE Student | Aspiring Full-Stack Developer | Interested in Web Developme
 Python · JavaScript · C · C++ · HTML · CSS  
 
 ### 🌐 Frontend
-React.js · Bootstrap · Tailwind CSS (Learning)
+React.js (Learning)
 
 ### ⚙️ Backend
 Django · Node.js (Learning)  
