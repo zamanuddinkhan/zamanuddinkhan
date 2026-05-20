@@ -8,8 +8,7 @@ B.Tech CSE Student | Aspiring Full-Stack Developer | Interested in Web Developme
 
 ## 🌱 Currently Learning
 
-- Full-Stack Web Development  
-- Backend Development with Django  
+- Full-Stack Web Development
 - Frontend Development with React.js
 - Data Structures & Algorithms using C++
 - Git, GitHub & Version Control 
@@ -50,12 +49,6 @@ GitHub · VS Code
 - 🎙 Hosted and organized events  
 - 📜 Received Certificate of Appreciation for event coordination  
 - 💡 Active participation in technical and financial literacy programs 
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=zamanuddinkhan&theme=radical)
 
 ---
 
