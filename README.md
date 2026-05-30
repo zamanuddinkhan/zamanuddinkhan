@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Zamanuddin Khan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student;Aspiring+Full-Stack+Developer;Interested+in+Web+Development+and+Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&fontWeight=700&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student;Aspiring+Full-Stack+Developer;Python+Developer" alt="Typing SVG" />
 </p>
 
 ---
