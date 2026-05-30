@@ -5,13 +5,31 @@
 </p>
 
 ---
+## 💫 About Me
 
-## 🌱 Currently Learning
+I am a **B.Tech Computer Science & Engineering student** passionate about **software development, web technologies, and continuous learning**. I enjoy building practical applications, solving programming challenges, and exploring modern development tools.
 
-- Full-Stack Web Development
-- Frontend Development with React.js
-- Data Structures & Algorithms using C++
-- Git, GitHub & Version Control 
+💻 Passionate about Artificial Intelligence, Python, and Software Engineering
+
+🌐 Building modern and responsive web applications
+
+📚 Practicing Data Structures & Algorithms
+
+☕ Working with Python, JavaScript, HTML, CSS, React, and Backend Technologies
+
+🌱 Continuously learning new technologies and development practices
+
+🎯 Goal: Become a Skilled Software Engineer and build impactful products
+
+## 🚀 Current Focus
+
+🔐 Authentication & Secure Applications
+
+📦 REST API Development
+
+🧩 Problem Solving & DSA
+
+☁️ Cloud & DevOps Fundamentals
 
 ---
 
@@ -39,7 +57,7 @@
 
 ### 🛠 Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 </p>
 
 ---
@@ -52,16 +70,6 @@
 
 ---
 
-## 📚 Academic & Leadership Highlights
-
-- 🎓 Class Representative (CR)  
-- 🎤 Member of TEDx Event Speaker Committee  
-- 🎙 Hosted and organized events  
-- 📜 Received Certificate of Appreciation for event coordination  
-- 💡 Active participation in technical and financial literacy programs 
-
----
-
 ## 🌐 Connect With Me
 
 💼 **LinkedIn:**  
@@ -69,3 +77,5 @@ https://www.linkedin.com/in/zamanuddin-khan-b673b8344
 
 📧 **Email:**  
 zamanuddinkhan1234@gmail.com  
+
+---
