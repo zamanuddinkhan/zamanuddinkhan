@@ -1,10 +1,13 @@
-<h1 align="center">Hey, I'm Zamanuddin Khan</h1>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Zamanuddin%20Khan&fontSize=62&fontColor=fff&fontAlignY=36&animation=fadeIn" width="100%"/>
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&fontWeight=900&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student;Aspiring+Full-Stack+Developer;Python+Developer" alt="Typing SVG" />
-</p>
+<div align="center">
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1200&color=00D9FF&center=true&vCenter=true&multiline=false&width=720&lines=%F0%9F%8E%93+B.Tech+CSE+Student;%F0%9F%92%BB+Aspiring+Full-Stack+Developer;%F0%9F%90%8D+Python+Developer)](https://git.io/typing-svg)
+
+</div>
+
 ## About Me
 
 I am a **B.Tech Computer Science & Engineering student** passionate about **software development, web technologies, and continuous learning**. I enjoy building practical applications, solving programming challenges, and exploring modern development tools.
