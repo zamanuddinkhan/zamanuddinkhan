@@ -48,7 +48,7 @@ I am a **B.Tech Computer Science & Engineering student** passionate about **soft
   <img src="https://skillicons.dev/icons?i=react&theme=dark" />
 </p>
 
-### ⚙️ Backend
+### ⚙️ Framework
 <p>
   <img src="https://skillicons.dev/icons?i=django,nodejs&theme=dark" />
 </p>
