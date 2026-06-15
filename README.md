@@ -50,7 +50,7 @@ I am a **B.Tech Computer Science & Engineering student** passionate about **soft
 
 ### ⚙️ Backend & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=django,nodejs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=django,fastapi,nodejs&theme=dark" />
 </p>
 
 ### 🗄️ Database
