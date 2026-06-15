@@ -36,31 +36,36 @@ I am a **B.Tech Computer Science & Engineering student** passionate about **soft
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
-<p>
+### 👨‍💻 Programming Languages
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,javascript,c,cpp,html,css&theme=dark" />
 </p>
 
-### 🌐 Frontend
-<p>
+### 🌐 Frontend Development
+<p align="left">
   <img src="https://skillicons.dev/icons?i=react&theme=dark" />
 </p>
 
-### ⚙️ Framework
-<p>
+### ⚙️ Backend & Frameworks
+<p align="left">
   <img src="https://skillicons.dev/icons?i=django,nodejs&theme=dark" />
 </p>
 
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+### 🗄️ Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
 </p>
 
-### 🛠 Tools
-<p>
+### 🔧 Development Tools
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+</p>
+
+### 🚀 DevOps & Cloud-Native Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes&theme=dark" />
 </p>
 
 ---
