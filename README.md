@@ -86,5 +86,3 @@ https://www.linkedin.com/in/zamanuddin-khan-b673b8344
 zamanuddinkhan1234@gmail.com  
 
 ---
-
-<h1 align="center"><strong>Turning Ideas Into Reality</strong></h1>
