@@ -89,3 +89,27 @@ zamanuddinkhan1@gmail.com
 ## 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=zamanuddinkhan&theme=tokyo-night"/>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<picture>
+<source media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/zamanuddinkhan/zamanuddinkhan/output/github-contribution-grid-snake-dark.svg">
+
+<source media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/zamanuddinkhan/zamanuddinkhan/output/github-contribution-grid-snake.svg">
+
+<img alt="GitHub Contribution Snake"
+src="https://raw.githubusercontent.com/zamanuddinkhan/zamanuddinkhan/output/github-contribution-grid-snake.svg">
+
+</picture>
+
+</p>
+
+---
+
+> **"Code. Learn. Build. Repeat."**
