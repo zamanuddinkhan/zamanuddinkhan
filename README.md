@@ -83,6 +83,6 @@ I am a **B.Tech Computer Science & Engineering student** passionate about **soft
 https://www.linkedin.com/in/zamanuddin-khan-b673b8344  
 
 📧 **Email:**  
-zamanuddinkhan1234@gmail.com  
+zamanuddinkhan1@gmail.com  
 
 ---
