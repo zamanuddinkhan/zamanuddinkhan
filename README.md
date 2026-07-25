@@ -69,14 +69,6 @@ I am a **B.Tech Computer Science & Engineering student** passionate about **soft
 
 ---
 
-## 🚀 Full-Stack Focus
-
-- Frontend & Backend Integration
-- Database Design & Management  
-- Writing clean, structured, maintainable code  
-
----
-
 ## 🌐 Connect With Me
 
 💼 **LinkedIn:**  
