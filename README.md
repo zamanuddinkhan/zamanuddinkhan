@@ -53,7 +53,7 @@ I am a **B.Tech Computer Science & Engineering student** passionate about **soft
 
 ### 🗄️ Database
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql&theme=dark" />
 </p>
 
 ### 🔧 Development Tools
