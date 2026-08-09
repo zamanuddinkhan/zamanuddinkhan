@@ -104,4 +104,4 @@ src="https://raw.githubusercontent.com/zamanuddinkhan/zamanuddinkhan/output/gith
 
 ---
 
-> **"Code. Learn. Build. Repeat."**
+<h3 align="center"><i>Code. Learn. Build. Repeat.</i></h3>
