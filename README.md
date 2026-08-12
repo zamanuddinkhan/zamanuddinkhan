@@ -16,9 +16,7 @@ I am a **B.Tech Computer Science & Engineering student** passionate about **soft
 
 🌐 Building modern and responsive web applications
 
-📚 Practicing Data Structures & Algorithms
-
-☕ Working with Python, JavaScript, HTML, CSS, React, and Backend Technologies
+📚 Working with Python, JavaScript, HTML, CSS, React, and Backend Technologies
 
 🎯 Goal: Become a Skilled Software Engineer and build impactful products
 
