@@ -20,15 +20,13 @@ I am a **B.Tech Computer Science & Engineering student** passionate about **soft
 
 🎯 Goal: Become a Skilled Software Engineer and build impactful products
 
-## 🚀 Current Focus
+## 📚 Currently Learning
 
-🔐 Authentication & Secure Applications
-
-📦 FastAPI Development
-
-🧩 Problem Solving & DSA
-
-☁️ Cloud & DevOps Fundamentals
+- 🐍 Advanced Python
+- ⚡ FastAPI
+- 🧩 Data Structures & Algorithms
+- 🔐 Authentication & Authorization
+- 🤖 AI & LLM Applications
 
 ---
 
@@ -103,3 +101,4 @@ src="https://raw.githubusercontent.com/zamanuddinkhan/zamanuddinkhan/output/gith
 ---
 
 <h3 align="center"><i>Code. Learn. Build. Repeat.</i></h3>
+
