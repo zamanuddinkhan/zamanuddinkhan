@@ -118,4 +118,6 @@ src="https://raw.githubusercontent.com/zamanuddinkhan/zamanuddinkhan/output/gith
 
 ---
 
-<h3 align="center"><i>Code. Learn. Build. Repeat.</i></h3>
+<h3 align="center">
+<i>Code. Learn. Build. Repeat.</i>
+</h3>
