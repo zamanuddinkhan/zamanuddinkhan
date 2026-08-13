@@ -110,4 +110,12 @@ src="https://raw.githubusercontent.com/zamanuddinkhan/zamanuddinkhan/output/gith
 
 ---
 
+## 📄 Resume
+
+<a href="https://drive.google.com/file/d/1VGW-yHGWvzI0aQi4OCr0Eyplrp8gEa9r/view?usp=sharing">
+<img src="https://img.shields.io/badge/View%20Resume-blue?style=for-the-badge"/>
+</a>
+
+---
+
 <h3 align="center"><i>Code. Learn. Build. Repeat.</i></h3>
