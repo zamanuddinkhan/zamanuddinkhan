@@ -24,7 +24,7 @@ I am a **B.Tech Computer Science & Engineering student** passionate about **soft
 
 🔐 Authentication & Secure Applications
 
-📦 Fast API Development
+📦 FastAPI Development
 
 🧩 Problem Solving & DSA
 
