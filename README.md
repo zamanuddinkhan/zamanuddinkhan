@@ -84,6 +84,15 @@ I am a **B.Tech Computer Science & Engineering student** passionate about **soft
 </p>
 
 ---
+
+## 📄 Resume
+
+<a href="https://drive.google.com/file/d/1VGW-yHGWvzI0aQi4OCr0Eyplrp8gEa9r/view?usp=sharing">
+<img src="https://img.shields.io/badge/View%20Resume-blue?style=for-the-badge"/>
+</a>
+
+---
+
 ## 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=zamanuddinkhan&theme=tokyo-night"/>
@@ -107,14 +116,6 @@ src="https://raw.githubusercontent.com/zamanuddinkhan/zamanuddinkhan/output/gith
 </picture>
 
 </p>
-
----
-
-## 📄 Resume
-
-<a href="https://drive.google.com/file/d/1VGW-yHGWvzI0aQi4OCr0Eyplrp8gEa9r/view?usp=sharing">
-<img src="https://img.shields.io/badge/View%20Resume-blue?style=for-the-badge"/>
-</a>
 
 ---
 
