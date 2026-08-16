@@ -60,7 +60,7 @@ I am a **B.Tech Computer Science & Engineering student** passionate about **soft
 ### ☁️ DevOps & Cloud-Native Tools [Learning]
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,googlecloud" />
 </p>
 
 ---
