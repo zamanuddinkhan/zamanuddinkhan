@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1200&color=00D9FF&center=true&vCenter=true&multiline=false&width=720&lines=%F0%9F%8E%93+B.Tech+CSE+Student;%F0%9F%92%BB+Aspiring+Full-Stack+Developer;%F0%9F%90%8D+Python+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=700\&size=23\&pause=1200\&color=00D9FF\&center=true\&vCenter=true\&multiline=false\&width=720\&lines=%F0%9F%8E%93+B.Tech+CSE+Student;%F0%9F%92%BB+Aspiring+Full-Stack+Developer;%F0%9F%90%8D+Python+Developer)](https://git.io/typing-svg)
 
 </div>
 
@@ -22,37 +22,42 @@ I am a **B.Tech Computer Science & Engineering student** passionate about **soft
 
 ## 📚 Currently Learning
 
-- 🐍 Advanced Python
-- ⚡ FastAPI
-- 🧩 Data Structures & Algorithms
-- 🔐 Authentication & Authorization
-- 🤖 AI & LLM Applications
+* 🐍 Advanced Python
+* ⚡ FastAPI
+* 🧩 Data Structures & Algorithms
+* 🔐 Authentication & Authorization
+* 🤖 AI & LLM Applications
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Programming Languages
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,javascript,c,cpp,html,css&theme=dark" />
 </p>
 
 ### 🌐 Frontend Development
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react&theme=dark" />
 </p>
 
 ### ⚙️ Backend & Frameworks
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=django,fastapi,nodejs&theme=dark" />
 </p>
 
 ### 🗄️ Database
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql&theme=dark" />
 </p>
 
 ### 🔧 Development Tools
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 </p>
@@ -60,7 +65,23 @@ I am a **B.Tech Computer Science & Engineering student** passionate about **soft
 ### ☁️ DevOps & Cloud-Native Tools [Learning]
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,googlecloud" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,googlecloud&theme=dark" />
+</p>
+
+### 📊 Python Libraries & Testing
+
+<p align="left">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
+</p>
+
+### 🎨 Design & Collaboration
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
 </p>
 
 ---
