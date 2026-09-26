@@ -90,7 +90,7 @@ I am a **B.Tech Computer Science & Engineering student** passionate about **soft
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/zamanuddin-khan-b673b8344">
+<a href="www.linkedin.com/in/zamanuddin-khan">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
