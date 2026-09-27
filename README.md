@@ -108,7 +108,7 @@ I am a **B.Tech Computer Science & Engineering student** passionate about **soft
 
 ## 📄 Resume
 
-<a href="https://drive.google.com/file/d/1VGW-yHGWvzI0aQi4OCr0Eyplrp8gEa9r/view?usp=sharing">
+<a href="https://drive.google.com/file/d/11Vg9_0ZHwb4As4B9bjVhQOaCoJF7WWgO/view?usp=sharing">
 <img src="https://img.shields.io/badge/View%20Resume-blue?style=for-the-badge"/>
 </a>
 
