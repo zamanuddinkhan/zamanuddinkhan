@@ -10,7 +10,7 @@
 
 ## About Me
 
-I am a **B.Tech Computer Science & Engineering student** passionate about **software development, web technologies, and continuous learning**. I enjoy building practical applications, solving programming challenges, and exploring modern development tools.
+I am a final year **B.Tech Computer Science & Engineering student** passionate about **software development, web technologies, and continuous learning**. I enjoy building practical applications, solving programming challenges, and exploring modern development tools.
 
 💻 Passionate about Artificial Intelligence, Python, and Software Engineering
 
