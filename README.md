@@ -16,7 +16,7 @@ I am a final year **B.Tech Computer Science & Engineering student** passionate a
 
 🌐 Building modern and responsive web applications
 
-📚 Working with Python, JavaScript, HTML, CSS, React, and Backend Technologies
+📚 Working with Python, AI/ML, FastAPI, Django, HTML, CSS, and Backend Development.
 
 🎯 Goal: Become a Skilled Software Engineer and build impactful products
 
