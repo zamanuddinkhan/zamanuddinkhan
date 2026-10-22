@@ -86,6 +86,59 @@ I am a final year **B.Tech Computer Science & Engineering student** passionate a
 
 ---
 
+## 🌐 My Portfolio
+
+Explore my projects, technical skills, and development journey.
+
+🚀 **[View Live Portfolio](https://portfolio-bay-pi-94.vercel.app/)**
+
+---
+
+## 🚀 Project
+
+### 🎓 TeachTrack | Smart Academic Management Platform
+
+**TeachTrack** is a full-stack, web-based academic management platform designed to simplify communication, learning, and administrative tasks within educational institutions.
+
+The platform connects **Students, Faculty, and Directors** through a centralized digital workspace, making academic resource sharing, quiz management, student feedback, and institutional monitoring more efficient.
+
+#### ✨ Key Features
+
+- 🔐 **Role-Based Authentication:** Secure login and dedicated dashboards for Students, Faculty, and Directors.
+- 📚 **Study Material Management:** Upload, access, and download notes, assignments, and previous-year question papers.
+- 📝 **Online Quiz System:** Faculty can create quizzes, while students can attempt quizzes and view their scores.
+- 💬 **Doubt Management:** Students can raise academic doubts and communicate with faculty.
+- 📢 **Announcements & Notifications:** Share important academic updates and announcements.
+- ⭐ **Faculty Feedback & Ratings:** Students can provide feedback to improve the learning experience.
+- 📩 **Complaint Management:** Submit complaints, track concerns, and receive responses.
+- 📊 **Director Dashboard:** Monitor academic activities, review reports, and manage institutional workflows.
+- 👨‍🏫 **Faculty Management:** Support faculty account creation and academic coordination.
+
+#### 🛠️ Technology Stack
+
+| Category | Technologies |
+|---|---|
+| Frontend | HTML, CSS, JavaScript |
+| Backend | Python, Django |
+| Database | MySQL |
+| Architecture | Django MVT, Role-Based Access |
+| Version Control | Git, GitHub |
+| Deployment | Vercel |
+
+#### 🎯 Project Objective
+
+To develop a centralized academic management system that reduces manual work, improves student-faculty communication, and makes learning resources and academic information easier to access.
+
+#### 🌐 Live Project
+
+🚀 **[Explore TeachTrack](https://teachtrack-gamma.vercel.app/)**
+
+**Project Type:** Full Stack Web Application
+
+**Domain:** Education Technology (EdTech)
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="left">
