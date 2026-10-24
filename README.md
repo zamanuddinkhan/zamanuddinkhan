@@ -35,19 +35,19 @@ I am a final year **B.Tech Computer Science & Engineering student** passionate a
 ### 👨‍💻 Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,javascript,c,cpp,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp&theme=dark" />
 </p>
 
 ### 🌐 Frontend Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript&theme=dark" />
 </p>
 
 ### ⚙️ Backend & Frameworks
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=django,fastapi,nodejs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=django,fastapi&theme=dark" />
 </p>
 
 ### 🗄️ Database
@@ -94,49 +94,46 @@ Explore my projects, technical skills, and development journey.
 
 ---
 
-## 🚀 Project
+## 🚀 Projects
+
+### 🎤 InterviewAce AI | AI-Powered Interview Preparation Platform
+
+A full-stack AI interview preparation platform for individual practice and peer mock interviews, featuring AI-generated questions, resume analysis, collaborative coding, and personalized feedback.
+
+**✨ Key Features**
+- 🤖 AI-powered interview practice and feedback
+- 👥 Peer interview rooms with real-time chat and audio/video
+- 💻 Collaborative Python coding with Docker-based execution
+- 📄 Resume-based interview preparation
+- 📊 Performance reports and interview history
+- 🔗 Document sharing and document-grounded preparation
+
+**🛠️ Tech Stack:** HTML, CSS, JavaScript, Python, FastAPI, MySQL, Ollama, LangChain, LangGraph, Docker
+
+**🌐 Live Demo:** [Explore InterviewAce AI](https://interviewaceai-tau.vercel.app/)
+
+**Project Type:** Full-Stack AI Web Application | **Domain:** AI & CareerTech
+
+---
 
 ### 🎓 TeachTrack | Smart Academic Management Platform
 
-**TeachTrack** is a full-stack, web-based academic management platform designed to simplify communication, learning, and administrative tasks within educational institutions.
+A full-stack academic management platform connecting students, faculty, and directors through a centralized system for learning resources, quizzes, communication, and academic administration.
 
-The platform connects **Students, Faculty, and Directors** through a centralized digital workspace, making academic resource sharing, quiz management, student feedback, and institutional monitoring more efficient.
+**✨ Key Features**
+- 🔐 Role-based authentication and dashboards
+- 📚 Study materials, assignments, and previous-year papers
+- 📝 Online quizzes and score tracking
+- 💬 Doubt management and faculty communication
+- 📢 Announcements, notifications, and complaint management
+- ⭐ Faculty feedback and ratings
+- 📊 Director dashboard and faculty management
 
-#### ✨ Key Features
+**🛠️ Tech Stack:** HTML, CSS, JavaScript, Python, Django, MySQL, Git, GitHub
 
-- 🔐 **Role-Based Authentication:** Secure login and dedicated dashboards for Students, Faculty, and Directors.
-- 📚 **Study Material Management:** Upload, access, and download notes, assignments, and previous-year question papers.
-- 📝 **Online Quiz System:** Faculty can create quizzes, while students can attempt quizzes and view their scores.
-- 💬 **Doubt Management:** Students can raise academic doubts and communicate with faculty.
-- 📢 **Announcements & Notifications:** Share important academic updates and announcements.
-- ⭐ **Faculty Feedback & Ratings:** Students can provide feedback to improve the learning experience.
-- 📩 **Complaint Management:** Submit complaints, track concerns, and receive responses.
-- 📊 **Director Dashboard:** Monitor academic activities, review reports, and manage institutional workflows.
-- 👨‍🏫 **Faculty Management:** Support faculty account creation and academic coordination.
+**🌐 Live Demo:** [Explore TeachTrack](https://teachtrack-gamma.vercel.app/)
 
-#### 🛠️ Technology Stack
-
-| Category | Technologies |
-|---|---|
-| Frontend | HTML, CSS, JavaScript |
-| Backend | Python, Django |
-| Database | MySQL |
-| Architecture | Django MVT, Role-Based Access |
-| Version Control | Git, GitHub |
-| Deployment | Vercel |
-
-#### 🎯 Project Objective
-
-To develop a centralized academic management system that reduces manual work, improves student-faculty communication, and makes learning resources and academic information easier to access.
-
-#### 🌐 Live Project
-
-🚀 **[Explore TeachTrack](https://teachtrack-gamma.vercel.app/)**
-
-**Project Type:** Full Stack Web Application
-
-**Domain:** Education Technology (EdTech)
-
+**Project Type:** Full-Stack Web Application | **Domain:** Education Technology (EdTech)
 ---
 
 ## 🌐 Connect With Me
